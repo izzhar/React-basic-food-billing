@@ -1,0 +1,21 @@
+.deep{
+    margin  :auto ;
+    width: 50%;
+    padding: 200px;
+}
+
+.btn1{
+    padding: 15px 35px;
+    margin:auto;
+    border-radius: 8px;
+    border: 2px white;
+    background-color: #008CBA;
+}
+
+
+.btn2{
+    padding: 15px 35px;
+    margin: 10px;
+    border-radius: 8px;
+    background-color: #008CBA;
+}
